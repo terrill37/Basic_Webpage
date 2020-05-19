@@ -17,9 +17,10 @@ Original code from Wesley Terrill
 
     git clone --recursive https://github.com/terrill37/Basic_Webpage.git .
 
-1. Copy index.php into your web page root directory (www directory)
+1. Copy index.php and StyleSheet.css into your web page root directory (www directory)
 
     cp index.php /path/to/www
+    cp StyleSheet.css /path/to/www
 
 1. add profile pic to root directory as .jpeg file
 

@@ -11,19 +11,21 @@ Original code from Wesley Terrill
 
 1. cd into your web folder
     
-    cd <my-path>
+   ``` cd <my-path> 
+   ```
 
 1. Clone this repository
 
-    git clone --recursive https://github.com/terrill37/Basic_Webpage.git .
-
+    ``` git clone --recursive https://github.com/terrill37/Basic_Webpage.git .
+```
 1. Copy index.php and StyleSheet.css into your web page root directory (www directory)
 
-    cp index.php /path/to/www
+   ``` cp index.php /path/to/www
     
     cp StyleSheet.css /path/to/www
+    ```
 
-1. add profile pic to root directory as .jpeg file
+1. add profile pic to root directory as `.jpeg` file
 
 1. edit index.php file to include links and names to different windows
 

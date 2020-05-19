@@ -4,18 +4,13 @@
 
 <!-- visit w3schools.com/html/ for html tutorial-->
 
-<<<<<<< HEAD
 <script src="https://kit.fontawesome.com/<access code>" crossorigin="anonymous"></script>
-=======
-<script src="https://kit.fontawesome.com/<access-code>" crossorigin="anonymous"></script>
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 <!-- the line above allows usage of icons
      visit https://kit.fontawesome.com and create an account to get the access link to basic icons
      use access value they assign you upon signing up 
      not required for code to work-->
 
 <style>
-<<<<<<< HEAD
 .button{
     background-color: #4CAF50; //Green
     border: none;
@@ -30,8 +25,6 @@
     }
 
 .button2{background-color: Crimson;}
-=======
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 
 .navbar{                               
     overflow: hidden;
@@ -39,13 +32,10 @@
     font-family: Arial;
     }
 
-<<<<<<< HEAD
 .navbar-right{
     float: right;
     }
 
-=======
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 .navbar a{
     float: left;
     font-size: 16px;
@@ -53,29 +43,12 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-<<<<<<< HEAD
     }                               
-=======
-    }
-
-.navbar a2{
-    float: right;
-    font-size: 16px;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    }
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 
 .dropdown{
     float: left;
     overflow: hidden;
-<<<<<<< HEAD
     }
-=======
-}
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 
 .dropdown .dropbtn{
     font-size: 16px;
@@ -88,7 +61,6 @@
     margin: 0;
     }
 
-<<<<<<< HEAD
 .navbar a:hover{
     background-color: red;
     }
@@ -101,9 +73,6 @@
 
 
 .dropdown:hover .dropbtn{
-=======
-.navbar a:hover, .dropdown:hover .dropbtn{
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
     background-color: red;
     }
 
@@ -115,10 +84,7 @@
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     }
-<<<<<<< HEAD
 
-=======
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 .dropdown-content a{
     float: none;
     color: black;
@@ -136,7 +102,6 @@
     display: block;
 }                                                                                   
 
-<<<<<<< HEAD
 
 </style>
 
@@ -147,46 +112,22 @@
             <i class="fas fa-home"></i>
         </a>
     </div>
-=======
-</style>
-
-<div class="navbar">
-    <a2 class="a2" href="/<username>"> <!-- FIXME use your user name in the following lines -->
-        Home
-        <i class="fas fa-home"></i>
-    </a2>
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
     <a href="https://www.cmu.edu/physics/">
         CMU Physics
         <i class="fas fa-atom"></i>
     </a>  
     <div class="dropdown">
-<<<<<<< HEAD
         <button onclick="window.location.href='projects/';" class="dropbtn">Projects
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
             <a href="#link1">link1</a>
             <a href="#link2">link2</a>
-=======
-        <button onclick="window.location.href='#';" class="dropbtn">Projects
-            <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="dropdown-content">
-            <!--<a href="/projects">projects<a>-->
-            <a href="#">Link1</a>
-            <a href="#">Link2</a>
-            <a href="#">Link3</a>
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
         </div>
     </div>
 </div>                                                                                         
 
-<<<<<<< HEAD
 <h1>User Name</h1>
-=======
-<h1>Your WebPage</h1>
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 <h2>Homepage</h2>
 
 <img src="Profile_pic.jpeg" alt="Profile Picture" style="width:304px;height:304px;">
@@ -195,14 +136,8 @@
 </br>
 
 <?php
-<<<<<<< HEAD
     //visit w3schools.com/php/ for php tutorial 
     echo "Hello World! <br>";
-=======
-    //visit w3schools.com/php/ for php tutorial  
-    echo "Hello World! <br>";
-
->>>>>>> 169b03c53b2da1e6417f058e65d3c260482e4408
 ?>
 
 </body>
